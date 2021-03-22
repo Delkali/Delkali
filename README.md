@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ryan Petris or @Delkali, i'm 17.
+- 👋 Hi, I’m Ryan Petris or @Rpetris, i'm 17.
 - 👀 I’m interested in a web dev carrier
 - 🌱 I’m currently learning HTML5, CSS6 and JavaScript.
